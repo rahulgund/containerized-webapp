@@ -1,6 +1,6 @@
-# containerized-webapp
+# containerized-webapplication
 
-# This will create a containerized web-application
+# This will create a containerized wordpress web-application
 $ docker-compose up -d
 
 # To Tear Down
